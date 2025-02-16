@@ -1,0 +1,5 @@
+.env
+/node_modules
+/config
+/config/firebase.json
+/config/config.js

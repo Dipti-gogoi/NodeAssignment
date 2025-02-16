@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home page/Landing URL</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Welcome to the REST API</h1>
+        <p>Your go-to API for managing users, expenses, and income seamlessly.</p>
+
+        <div class="endpoints">
+            <h2>Users Endpoints</h2>
+            <ul>
+                <li><strong>GET /users</strong> - Retrieve all registered users.</li>
+                <li><strong>POST /users</strong> - Add a new user to the system.</li>
+                <li><strong>PUT /users/:id</strong> - Update an existing user by their ID.</li>
+                <li><strong>DELETE /users/:id</strong> - Remove a user from the system.</li>
+            </ul>
+
+            <h2>Expense Endpoints</h2>
+            <ul>
+                <li><strong>GET /expenses</strong> - Retrieve all expense records.</li>
+                <li><strong>POST /expenses</strong> - Add a new expense entry.</li>
+                <li><strong>PUT /expenses/:id</strong> - Update an existing expense record.</li>
+                <li><strong>DELETE /expenses/:id</strong> - Delete an expense record.</li>
+            </ul>
+
+            <h2>Income Endpoints</h2>
+            <ul>
+                <li><strong>GET /income</strong> - Retrieve all recorded income.</li>
+                <li><strong>POST /income</strong> - Add a new income entry.</li>
+                <li><strong>PUT /income/:id</strong> - Update an existing income record.</li>
+                <li><strong>DELETE /income/:id</strong> - Delete an income entry.</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
