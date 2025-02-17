@@ -103,7 +103,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Development and Deployment
 - **Development Server:** Run `npm start` for local testing with live reload.
-- **Production Build:** The backend can be deployed to a cloud service (e.g., Firebase Functions, AWS, Heroku, or Vercel) for production use.
+- **Production Build:** The backend project is deployed to a cloud service Heroku - https://noderest-api-d49dbd946421.herokuapp.com/
 
 ## Summary
 This project provides a simple yet functional REST API for managing users, expenses, and income data. It ensures seamless data handling through Firebase while maintaining a structured and modular backend using Express.
