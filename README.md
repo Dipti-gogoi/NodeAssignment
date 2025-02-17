@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Dipti-gogoi/node-rest-api.git
+    git clone https://github.com/Dipti-gogoi/NodeREST-API
      ```
 
 2. **Install dependencies:**
@@ -102,8 +102,8 @@ These instructions will get you a copy of the project up and running on your loc
 - If an API request fails, an error response is sent to the client with relevant status codes and messages.
 
 ## Development and Deployment
-- **Development Server:** Run `npm start` for local testing with live reload.
-- **Production Build:** The backend can be deployed to a cloud service (e.g., Firebase Functions, AWS, Heroku, or Vercel) for production use.
+- **Development Server:** Run ` nodemon index.js or npx nodemon index.js` for local testing with live reload.
+- **Production Build:** The backend project is deployed to a cloud service Heroku - https://noderest-api-d49dbd946421.herokuapp.com/
 
 ## Summary
 This project provides a simple yet functional REST API for managing users, expenses, and income data. It ensures seamless data handling through Firebase while maintaining a structured and modular backend using Express.
