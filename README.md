@@ -102,7 +102,7 @@ These instructions will get you a copy of the project up and running on your loc
 - If an API request fails, an error response is sent to the client with relevant status codes and messages.
 
 ## Development and Deployment
-- **Development Server:** Run `npm start` for local testing with live reload.
+- **Development Server:** Run ` nodemon index.js or npx nodemon index.js` for local testing with live reload.
 - **Production Build:** The backend project is deployed to a cloud service Heroku - https://noderest-api-d49dbd946421.herokuapp.com/
 
 ## Summary
