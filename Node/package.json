@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dipti-gogoi/node-rest-api.git"
+    "url": "git+https://github.com/Dipti-gogoi/NodeREST-API.git"
   },
   "keywords": [
     "api",
@@ -20,14 +20,13 @@
   "author": "Dipti Gogoi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dipti-gogoi/node-rest-api/issues"
+    "url": "https://github.com/Dipti-gogoi/NodeREST-API/issues"
   },
-  "homepage": "https://github.com/Dipti-gogoi/node-rest-api#readme",
+  "homepage": "https://github.com/Dipti-gogoi/NodeREST-API#readme",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "firebase-admin": "^13.1.0",
-    "nodemon": "^3.1.9",
-    "punycode": "^2.3.1"
+    "nodemon": "^3.1.9"
   }
 }
