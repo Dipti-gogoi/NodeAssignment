@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Dipti-gogoi/node-rest-api.git
+    git clone https://github.com/Dipti-gogoi/NodeREST-API
      ```
 
 2. **Install dependencies:**
