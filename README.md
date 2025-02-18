@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a simple REST API built using Node.js with Express for backend development. It provides endpoints for managing users, expenses, and income, using Firebase cloud firestore as the database. 
-This project is hosted online at Heroku - https://noderest-api-d49dbd946421.herokuapp.com/
+--This project is hosted online at Heroku - https://noderest-api-d49dbd946421.herokuapp.com/
 
 ## Features
 
